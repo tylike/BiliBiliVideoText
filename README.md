@@ -1,2 +1,2 @@
 # bilibiliVideoText
-B站上视频对应的文字内部
+B站上视频对应的文字版本
